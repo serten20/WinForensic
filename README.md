@@ -1,7 +1,7 @@
 # WinForensic
+Get useful information after a security incident and review it in an html report
 
-
-The script obtains the following information in Windows OS:
+This script obtains the following information in Windows OS:
 1.	Events from the event viewer (System, Application and Security).
 2.  User and account information:
     - Local system users.
