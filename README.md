@@ -15,7 +15,7 @@ The script obtains the following information:
     - Network routes and network adapters.
 4.	System information:
     - Data about the system, such as machine name, domain, etc.
-    - Logs the patches (hotfixes) installed on the system.
+    - Hotfixes installed on the system.
     - Gets the contents of the hosts file.
     - list of programs installed on the system
 5.	Search for potentially suspicious activities:
