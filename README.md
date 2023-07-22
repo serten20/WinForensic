@@ -22,9 +22,10 @@ This script obtains the following information in Windows OS:
     - Checks the "Run" and "RunOnce" registry keys for programs that start automatically and are likely to gain persistence on the system.
     - Look for executable files and other suspicious types in the "AppData" and "Temp" folders.
   
-
+Powershell script:
 ![image](https://github.com/serten20/WinForensic/assets/88821522/98b651ec-c3d5-42da-bd5a-a9ffa9d1e449)
 
+HTML Report:
 ![image](https://github.com/serten20/WinForensic/assets/88821522/d9c2fbb8-28da-4ef3-9925-5b98f0e72d54)
 
 
